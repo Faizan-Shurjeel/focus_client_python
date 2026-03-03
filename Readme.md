@@ -78,4 +78,4 @@ With the core functionality in place, the next steps are to expand the automatio
 -   [ ] **Run as a Background Service:** Package the script to run silently as a true background service on Windows startup.
 
 ---
-_This project serves as the primary development version, with parallel implementations in [Rust](https://github.com/Faizan-Shurjeel/focus_client_rust) and [Go](<link-to-go-repo-if-you-create-one>) for comparison._
+_This project serves as the primary development version, with parallel implementations in [Rust](https://github.com/Faizan-Shurjeel/focus_client_rust) for comparison._
